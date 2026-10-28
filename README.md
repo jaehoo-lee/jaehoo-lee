@@ -8,5 +8,6 @@ Research code will be released after paper submission.
 
 **Projects**
 - [`RNN-cells-from-scratch`](https://github.com/jaehoo-lee/RNN-cells-from-scratch) — Elman RNN / LSTM / GRU cells in PyTorch; Elman RNN and LSTM verified against torch.nn
-- [`Financial-Machine-Learning-Model-Comparison`](https://github.com/jaehoo-lee/Financial-Machine-Learning-Model-Comparison) — Credit-card customer segment classification with boosting models (team project)
+- [`Financial-Machine-Learning-Model-Comparison`](https://github.com/jaehoo-lee/Financial-Machine-Learning-Model-Comparison) — Credit-card customer segment classification
+with boosting models (team project)
 - Capstone (in progress, private team repo) — Federated learning defense against data poisoning
